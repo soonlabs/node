@@ -1,0 +1,7 @@
+{
+  "root_node_ips": [
+    {"Ip": "20.188.6.225"}
+  ],
+  "try_new_peers": true,
+  "chain": "Mainnet"
+}
